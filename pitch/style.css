@@ -1,0 +1,13 @@
+.footer {
+    color: white; background: #000066;
+    position: fixed; top: 95%;
+    text-align:float; width:100%;
+}
+
+.name {
+    float: left;
+}
+
+.number { 
+    float: right;
+}
